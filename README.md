@@ -29,7 +29,7 @@ Step 1: Download the script
 Step 2: Open PowerShell
 
 1. Open the folder where you saved the script.
-2. Open PowerShell or Windows Terminal.
+2. Open PowerShell or Windows Terminal as Run As administator.
 3. Navigate to the folder containing the script. For example:
 
    ```powershell
